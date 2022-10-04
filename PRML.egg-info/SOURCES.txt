@@ -1,0 +1,10 @@
+setup.py
+PRML/LinearRegression.py
+PRML/__init__.py
+PRML/dbscan.py
+PRML/distance.py
+PRML/helper.py
+PRML.egg-info/PKG-INFO
+PRML.egg-info/SOURCES.txt
+PRML.egg-info/dependency_links.txt
+PRML.egg-info/top_level.txt
